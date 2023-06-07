@@ -35,4 +35,11 @@ Usage of ./http_to_nsq:
     	HTTP port (default 4252)
 ```
 
+Or in docker:
+
+```shell
+docker run --rm -p 4252:4252 iamolegga/http_to_nsq \
+  -nsqd-tcp-address=host.docker.internal:4150
+```
+
 Metrics are exposed at `/metrics` endpoint on the same port as the HTTP server.
