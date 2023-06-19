@@ -6,7 +6,7 @@ require (
 	github.com/gofiber/contrib/fiberzap v1.0.2
 	github.com/gofiber/fiber/v2 v2.46.0
 	github.com/nsqio/go-nsq v1.1.0
-	github.com/prometheus/client_golang v1.15.1
+	github.com/prometheus/client_golang v1.16.0
 	github.com/stretchr/testify v1.8.4
 	github.com/valyala/fasthttp v1.47.0
 	go.uber.org/zap v1.24.0
