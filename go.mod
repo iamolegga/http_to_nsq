@@ -8,7 +8,7 @@ require (
 	github.com/nsqio/go-nsq v1.1.0
 	github.com/prometheus/client_golang v1.16.0
 	github.com/stretchr/testify v1.8.4
-	github.com/valyala/fasthttp v1.47.0
+	github.com/valyala/fasthttp v1.48.0
 	go.uber.org/zap v1.24.0
 )
 
