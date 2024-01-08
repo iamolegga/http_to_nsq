@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/gofiber/contrib/fiberzap v1.0.2
-	github.com/gofiber/fiber/v2 v2.51.0
+	github.com/gofiber/fiber/v2 v2.52.0
 	github.com/nsqio/go-nsq v1.1.0
 	github.com/prometheus/client_golang v1.18.0
 	github.com/stretchr/testify v1.8.4
@@ -18,7 +18,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
-	github.com/google/uuid v1.4.0 // indirect
+	github.com/google/uuid v1.5.0 // indirect
 	github.com/klauspost/compress v1.17.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
